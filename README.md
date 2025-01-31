@@ -1,0 +1,25 @@
+💰 Sistema de Controle Financeiro
+Este é um projeto de Controle Financeiro desenvolvido em Java com MySQL, onde o usuário pode gerenciar suas transações financeiras de forma simples e eficiente.
+
+🔹 Funcionalidades
+✅ Adicionar uma transação (definir valor, tipo: despesa ou receita)
+✅ Listar todas as transações cadastradas
+✅ Atualizar informações de uma transação existente
+✅ Deletar uma transação
+
+O projeto implementa um CRUD completo integrado ao banco de dados MySQL, garantindo a persistência dos dados.
+
+🔧 Tecnologias Utilizadas
+Java
+MySQL
+JDBC / JPA (se aplicável)
+IntelliJ IDEA (IDE usada no desenvolvimento)
+📌 Como Executar
+1️⃣ Clone o repositório:
+
+bash
+Copiar
+Editar
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+2️⃣ Configure o banco de dados MySQL e ajuste as credenciais no código
+3️⃣ Execute a aplicação no IntelliJ
