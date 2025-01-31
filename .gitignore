@@ -12,6 +12,7 @@ target/
 *.iml
 *.ipr
 /.idea
+
 mysql-connector-j-9.1.0.jar
 
 ### Eclipse ###
