@@ -11,9 +11,10 @@ target/
 *.iws
 *.iml
 *.ipr
-/.idea
+.idea/
 
-mysql-connector-j-9.1.0.jar
+*.jar
+
 
 ### Eclipse ###
 .apt_generated
