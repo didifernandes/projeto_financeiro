@@ -16,6 +16,6 @@ IntelliJ IDEA (IDE usada no desenvolvimento)
 
 📌 Como Executar
 1️⃣ Clone o repositório:
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/seu-usuario/projeto_financeiro.git
 2️⃣ Configure o banco de dados MySQL e ajuste as credenciais no código
 3️⃣ Execute a aplicação no IntelliJ
