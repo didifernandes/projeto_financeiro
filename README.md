@@ -12,14 +12,10 @@ O projeto implementa um CRUD completo integrado ao banco de dados MySQL, garanti
 🔧 Tecnologias Utilizadas
 Java
 MySQL
-JDBC / JPA (se aplicável)
 IntelliJ IDEA (IDE usada no desenvolvimento)
+
 📌 Como Executar
 1️⃣ Clone o repositório:
-
-bash
-Copiar
-Editar
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 2️⃣ Configure o banco de dados MySQL e ajuste as credenciais no código
 3️⃣ Execute a aplicação no IntelliJ
